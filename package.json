@@ -1,0 +1,49 @@
+{
+  "_from": "github:mikestek/icalevent",
+  "_id": "icalevent@0.3.3",
+  "_inBundle": false,
+  "_location": "/icalevent",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "icalevent@github:mikestek/icalevent",
+    "name": "icalevent",
+    "escapedName": "icalevent",
+    "rawSpec": "github:mikestek/icalevent",
+    "saveSpec": "github:mikestek/icalevent",
+    "fetchSpec": null,
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "github:mikestek/icalevent#88299f17d6cb1bfea3ff332419b00b1c3ba85384",
+  "_spec": "icalevent@github:mikestek/icalevent",
+  "_where": "/Users/lakeishatowner/projects/apprise/higgins",
+  "author": {
+    "name": "Shane Thacker",
+    "email": "shane@steadymade.com"
+  },
+  "bugs": {
+    "url": "https://github.com/shanebo/icalevent/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "tzone": "0.0.2"
+  },
+  "deprecated": false,
+  "description": "Create an iCalEvent instance by setting limited properties and get an ics formatted string.",
+  "engine": ">= 0.4.1",
+  "homepage": "https://github.com/shanebo/icalevent#readme",
+  "keywords": [
+    "ical",
+    "ics"
+  ],
+  "main": "./icalevent",
+  "name": "icalevent",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/shanebo/icalevent.git"
+  },
+  "version": "0.3.3"
+}
